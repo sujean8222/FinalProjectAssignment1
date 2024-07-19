@@ -39,3 +39,6 @@
 
 5. **Marvel database
 - How has the diversity of marvel characters changed over time? Can we predict new marvel movies and what does this mean for Hollywood and representation?
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sujean8222/FinalProjectAssignment1/main)
